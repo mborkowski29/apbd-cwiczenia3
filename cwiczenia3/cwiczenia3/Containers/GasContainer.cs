@@ -2,5 +2,8 @@
 
 public class GasContainer : Container
 {
-    
+    public GasContainer(int cargoWeight) : base(cargoWeight)
+    {
+        
+    }
 }
