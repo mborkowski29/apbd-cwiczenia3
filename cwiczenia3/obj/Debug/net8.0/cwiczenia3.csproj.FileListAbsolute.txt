@@ -1,0 +1,14 @@
+C:\Users\Mikołaj\Desktop\apbd\apbd-cwiczenia3-main\cwiczenia3\cwiczenia3\bin\Debug\net8.0\cwiczenia3.exe
+C:\Users\Mikołaj\Desktop\apbd\apbd-cwiczenia3-main\cwiczenia3\cwiczenia3\bin\Debug\net8.0\cwiczenia3.deps.json
+C:\Users\Mikołaj\Desktop\apbd\apbd-cwiczenia3-main\cwiczenia3\cwiczenia3\bin\Debug\net8.0\cwiczenia3.runtimeconfig.json
+C:\Users\Mikołaj\Desktop\apbd\apbd-cwiczenia3-main\cwiczenia3\cwiczenia3\bin\Debug\net8.0\cwiczenia3.dll
+C:\Users\Mikołaj\Desktop\apbd\apbd-cwiczenia3-main\cwiczenia3\cwiczenia3\bin\Debug\net8.0\cwiczenia3.pdb
+C:\Users\Mikołaj\Desktop\apbd\apbd-cwiczenia3-main\cwiczenia3\cwiczenia3\obj\Debug\net8.0\cwiczenia3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mikołaj\Desktop\apbd\apbd-cwiczenia3-main\cwiczenia3\cwiczenia3\obj\Debug\net8.0\cwiczenia3.AssemblyInfoInputs.cache
+C:\Users\Mikołaj\Desktop\apbd\apbd-cwiczenia3-main\cwiczenia3\cwiczenia3\obj\Debug\net8.0\cwiczenia3.AssemblyInfo.cs
+C:\Users\Mikołaj\Desktop\apbd\apbd-cwiczenia3-main\cwiczenia3\cwiczenia3\obj\Debug\net8.0\cwiczenia3.csproj.CoreCompileInputs.cache
+C:\Users\Mikołaj\Desktop\apbd\apbd-cwiczenia3-main\cwiczenia3\cwiczenia3\obj\Debug\net8.0\cwiczenia3.dll
+C:\Users\Mikołaj\Desktop\apbd\apbd-cwiczenia3-main\cwiczenia3\cwiczenia3\obj\Debug\net8.0\refint\cwiczenia3.dll
+C:\Users\Mikołaj\Desktop\apbd\apbd-cwiczenia3-main\cwiczenia3\cwiczenia3\obj\Debug\net8.0\cwiczenia3.pdb
+C:\Users\Mikołaj\Desktop\apbd\apbd-cwiczenia3-main\cwiczenia3\cwiczenia3\obj\Debug\net8.0\cwiczenia3.genruntimeconfig.cache
+C:\Users\Mikołaj\Desktop\apbd\apbd-cwiczenia3-main\cwiczenia3\cwiczenia3\obj\Debug\net8.0\ref\cwiczenia3.dll
